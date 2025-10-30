@@ -1,1 +1,1 @@
-# Data_Analytics_using_Python
+This repository contain the end to end data analytics projects using python
